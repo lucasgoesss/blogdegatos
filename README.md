@@ -6,8 +6,8 @@ Desafio de um Blog com artigos de gatos proposto durante as aulas do Stage 03 do
 
 ## Tecnologias Utilizadas
 
-- **HTML**: Estrutura básica da ilustração e do formulário.
-- **CSS**: Estilização dos elementos para criar a aparência final da imagem e do formulário.
+- **HTML**: Estrutura básica da ilustração de textos e imagens.
+- **CSS**: Estilização dos elementos para criar a aparência final do blog.
 
 ## Estrutura do Projeto
 Feito um Blog com imagens, características e informações sobre gatos.
